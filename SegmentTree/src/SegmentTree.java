@@ -47,7 +47,7 @@ public class SegmentTree<E> {
             throw new IllegalArgumentException("Index is illegal.");
         return data[index];
     }
-
+ 
     public E query(int queryL,int queryR)
     {
         if(queryL<0||queryL>=data.length||queryR<0||queryR>=data.length||queryL>queryR)
