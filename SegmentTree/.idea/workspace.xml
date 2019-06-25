@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76aad85b-bf80-45cf-a61d-5b145bb2db3f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../307-Range-Sum-Query-With-update/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../307-Range-Sum-Query-With-update/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../307-Range-Sum-Query-With-update/src/NumArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumArray2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SegmentTree/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SegmentTree/Main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SegmentTree/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SegmentTree/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SegmentTree/SegmentTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SegmentTree/SegmentTree.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SegmentTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegmentTree.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,16 +21,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+            <state relative-caret-position="150">
+              <caret line="6" selection-start-line="6" selection-end-line="7" selection-end-column="25" />
               <folding>
                 <element signature="e#271#272#0" expanded="true" />
                 <element signature="e#313#314#0" expanded="true" />
@@ -31,11 +38,39 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NumArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="123" column="59" selection-start-line="123" selection-start-column="59" selection-end-line="123" selection-end-column="59" />
+              <folding>
+                <element signature="class#Merger#0;class#NumArray#0" />
+                <element signature="class#SegmentTree#0;class#NumArray#0" />
+                <element signature="e#1125#1126#0" expanded="true" />
+                <element signature="e#1167#1168#0" expanded="true" />
+                <element signature="e#2429#2430#0" expanded="true" />
+                <element signature="e#2471#2472#0" expanded="true" />
+                <element signature="e#2560#2561#0" expanded="true" />
+                <element signature="e#2602#2603#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NumArray2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="700">
+              <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SegmentTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="68" column="18" lean-forward="true" selection-start-line="68" selection-start-column="18" selection-end-line="68" selection-end-column="18" />
+            <state relative-caret-position="-640">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
               <folding>
                 <element signature="e#1684#1685#0" expanded="true" />
                 <element signature="e#1718#1719#0" expanded="true" />
@@ -50,7 +85,7 @@
         <entry file="file://$PROJECT_DIR$/src/Merger.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+              <caret line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -60,8 +95,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -72,8 +107,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Merger.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/SegmentTree.java" />
+        <option value="$PROJECT_DIR$/src/NumArray.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/NumArray2.java" />
       </list>
     </option>
   </component>
@@ -83,7 +120,9 @@
     <option name="width" value="1364" />
     <option name="height" value="728" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -154,18 +193,18 @@
       <option name="presentableId" value="Default" />
       <updated>1561023562379</updated>
       <workItem from="1561023565259" duration="6168000" />
-      <workItem from="1561108784881" duration="2590000" />
+      <workItem from="1561108784881" duration="8473000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8758000" />
+    <option name="totallyTimeSpent" value="14641000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="-8" width="2576" height="1416" extended-state="6" />
+    <frame x="1358" y="-8" width="2576" height="1416" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.118305355" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.118305355" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -174,7 +213,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.16440542" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.16360734" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.25538707" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -184,7 +223,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3293461" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32881084" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -203,30 +242,54 @@
     <entry file="file://$PROJECT_DIR$/src/Merger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-          <folding>
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-          </folding>
+          <caret line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SegmentTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="68" column="18" lean-forward="true" selection-start-line="68" selection-start-column="18" selection-end-line="68" selection-end-column="18" />
+        <state relative-caret-position="-640">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
           <folding>
             <element signature="e#1684#1685#0" expanded="true" />
             <element signature="e#1718#1719#0" expanded="true" />
             <element signature="e#1799#1800#0" expanded="true" />
             <element signature="e#1833#1834#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NumArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="123" column="59" selection-start-line="123" selection-start-column="59" selection-end-line="123" selection-end-column="59" />
+          <folding>
+            <element signature="class#Merger#0;class#NumArray#0" />
+            <element signature="class#SegmentTree#0;class#NumArray#0" />
+            <element signature="e#1125#1126#0" expanded="true" />
+            <element signature="e#1167#1168#0" expanded="true" />
+            <element signature="e#2429#2430#0" expanded="true" />
+            <element signature="e#2471#2472#0" expanded="true" />
+            <element signature="e#2560#2561#0" expanded="true" />
+            <element signature="e#2602#2603#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NumArray2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" selection-start-line="6" selection-end-line="7" selection-end-column="25" />
+          <folding>
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
           </folding>
         </state>
       </provider>
