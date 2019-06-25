@@ -48,6 +48,36 @@ public class SegmentTree<E> {
         return data[index];
     }
 
+    public E query(int queryL,int queryR)
+    {
+        if(queryL<0||queryL>=data.length||queryR<0||queryR>=data.length||queryL>queryR)
+            throw new IllegalArgumentException("Check your number again!");
+
+        return query(0,0,data.length-1,queryL,queryR);
+    }
+
+    private E query(int treeIndex,int l,int r,int queryL,int queryR)
+    {
+        if(l==queryL&&r==queryR)
+            return tree[treeIndex];
+
+        int mid=l+(r-l)/2;
+
+        int leftIndex=leftChild(treeIndex);
+        int rightIndex=rightChild(treeIndex);
+
+        if(queryL>mid)
+            return query(rightIndex,mid+1,r,queryL,queryR);
+        else if(queryR<=mid)
+            return query(leftIndex,l,mid,queryL,queryR);
+
+        E leftResult = query(leftIndex,l,mid,queryL,mid);
+        E rightResult=query(rightIndex,mid+1,r,mid+1,queryR);
+
+        return merger.merge(leftResult,rightResult);
+
+
+    }
     // 返回完全二叉树的数组表示中，一个索引所表示的元素的左孩子节点的索引
     private int leftChild(int index){
         return 2*index + 1;
