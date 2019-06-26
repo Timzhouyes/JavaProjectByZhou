@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76aad85b-bf80-45cf-a61d-5b145bb2db3f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../307-Range-Sum-Query-With-update/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../307-Range-Sum-Query-With-update/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../307-Range-Sum-Query-With-update/src/NumArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumArray2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../307-Range-Sum-Query-With-update/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../307-Range-Sum-Query-With-update/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/SegmentTree/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SegmentTree/Main$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/SegmentTree/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SegmentTree/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/SegmentTree/SegmentTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SegmentTree/SegmentTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SegmentTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegmentTree.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,11 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="6" selection-start-line="6" selection-end-line="7" selection-end-column="25" />
+              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
               <folding>
                 <element signature="e#271#272#0" expanded="true" />
                 <element signature="e#313#314#0" expanded="true" />
@@ -66,11 +62,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/SegmentTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-640">
-              <caret line="49" selection-start-line="49" selection-end-line="49" />
+            <state relative-caret-position="575">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
               <folding>
                 <element signature="e#1684#1685#0" expanded="true" />
                 <element signature="e#1718#1719#0" expanded="true" />
@@ -107,10 +103,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Merger.java" />
-        <option value="$PROJECT_DIR$/src/SegmentTree.java" />
         <option value="$PROJECT_DIR$/src/NumArray.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/NumArray2.java" />
+        <option value="$PROJECT_DIR$/src/SegmentTree.java" />
       </list>
     </option>
   </component>
@@ -193,16 +189,15 @@
       <option name="presentableId" value="Default" />
       <updated>1561023562379</updated>
       <workItem from="1561023565259" duration="6168000" />
-      <workItem from="1561108784881" duration="8473000" />
+      <workItem from="1561108784881" duration="11365000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14641000" />
+    <option name="totallyTimeSpent" value="17533000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="-8" width="2576" height="1416" extended-state="7" />
-    <editor active="true" />
+    <frame x="1358" y="-8" width="2576" height="1416" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.118305355" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -213,7 +208,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.16360734" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.16360734" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.25538707" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -246,19 +241,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SegmentTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-640">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-          <folding>
-            <element signature="e#1684#1685#0" expanded="true" />
-            <element signature="e#1718#1719#0" expanded="true" />
-            <element signature="e#1799#1800#0" expanded="true" />
-            <element signature="e#1833#1834#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/NumArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -286,10 +268,23 @@
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="6" selection-start-line="6" selection-end-line="7" selection-end-column="25" />
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
           <folding>
             <element signature="e#271#272#0" expanded="true" />
             <element signature="e#313#314#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SegmentTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#1684#1685#0" expanded="true" />
+            <element signature="e#1718#1719#0" expanded="true" />
+            <element signature="e#1799#1800#0" expanded="true" />
+            <element signature="e#1833#1834#0" expanded="true" />
           </folding>
         </state>
       </provider>

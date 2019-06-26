@@ -47,7 +47,7 @@ public class SegmentTree<E> {
             throw new IllegalArgumentException("Index is illegal.");
         return data[index];
     }
- 
+
     public E query(int queryL,int queryR)
     {
         if(queryL<0||queryL>=data.length||queryR<0||queryR>=data.length||queryL>queryR)
@@ -78,6 +78,7 @@ public class SegmentTree<E> {
 
 
     }
+
     // 返回完全二叉树的数组表示中，一个索引所表示的元素的左孩子节点的索引
     private int leftChild(int index){
         return 2*index + 1;

@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="522731a6-ddb9-4998-b0a9-8064d50ecd16" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SegmentTree/src/NumArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SegmentTree/src/NumArray2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SegmentTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SegmentTree/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SegmentTree/out/production/SegmentTree/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SegmentTree/out/production/SegmentTree/Main$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SegmentTree/out/production/SegmentTree/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SegmentTree/out/production/SegmentTree/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SegmentTree/out/production/SegmentTree/SegmentTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SegmentTree/out/production/SegmentTree/SegmentTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SegmentTree/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SegmentTree/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SegmentTree/src/SegmentTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SegmentTree/src/SegmentTree.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -103,6 +98,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
@@ -150,12 +146,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561452942033</updated>
-      <workItem from="1561452946914" duration="1687000" />
+      <workItem from="1561452946914" duration="2075000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1687000" />
+    <option name="totallyTimeSpent" value="2075000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="2576" height="1416" extended-state="6" />
