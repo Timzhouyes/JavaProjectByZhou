@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="522731a6-ddb9-4998-b0a9-8064d50ecd16" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Maxheap/src/com/company/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maxheap/src/com/company/MaxHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maxheap/src/com/company/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SegmentTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SegmentTree/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SegmentTree/out/production/SegmentTree/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SegmentTree/out/production/SegmentTree/Main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SegmentTree/out/production/SegmentTree/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SegmentTree/out/production/SegmentTree/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SegmentTree/out/production/SegmentTree/SegmentTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SegmentTree/out/production/SegmentTree/SegmentTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SegmentTree/src/SegmentTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SegmentTree/src/SegmentTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maxheap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Maxheap/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maxheap/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Maxheap/src/com/company/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="275">
-              <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+              <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -35,7 +35,7 @@
         <entry file="file://$PROJECT_DIR$/src/NumArray.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="450">
-              <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
               <folding>
                 <element signature="e#504#505#0" expanded="true" />
                 <element signature="e#546#547#0" expanded="true" />
@@ -198,14 +198,14 @@
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
-          <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/NumArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
-          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
           <folding>
             <element signature="e#504#505#0" expanded="true" />
             <element signature="e#546#547#0" expanded="true" />
