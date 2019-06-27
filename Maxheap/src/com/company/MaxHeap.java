@@ -74,12 +74,22 @@ public class MaxHeap<E extends Comparable<E>> {
 
     }
 
+    //Get the max element in the Heap and change to new Element e
+    public E replace(E e)
+    {
+        E res = findMax();
+
+        data.set(0,e);
+        siftDown(0);
+        return res;
+    }
+
     private void siftDown(int k){
 
-        while(leftChild(k)>data.getSize())
+        while(leftChild(k)<data.getSize())
         {
             int j=leftChild(k);
-            if(rightChild(k)>data.getSize()&&data.get(j+1).compareTo(data.get(j))>0)
+            if(rightChild(k)<data.getSize()&&data.get(j+1).compareTo(data.get(j))>0)
                 j=rightChild(k);
 
             if(data.get(k).compareTo(data.get(j))>=0)
