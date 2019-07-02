@@ -1,7 +1,7 @@
 import java.util.TreeMap;
 
-public class Trie {
-
+public class WordDictionary {
+//For question 211 in Leetcode: Based on the Trie I created
     private class Node {
         boolean isWord;
         TreeMap<Character, Node> next;
@@ -19,7 +19,7 @@ public class Trie {
     private Node root;
     private int size;
 
-    public Trie() {
+    public WordDictionary() {
         root = new Node();
         size = 0;
     }
@@ -28,7 +28,7 @@ public class Trie {
         return size;
     }
 
-    public void add(String word) {
+    public void addWord(String word) {
         Node cur = root;
         for (int i = 0; i < word.length(); i++) {
             Character c = word.charAt(i);
@@ -43,27 +43,19 @@ public class Trie {
         }
     }
 
-    public boolean contains(String word){
+    public boolean search(String word){
         Node cur=root;
         for(int i=0;i<word.length();i++){
             Character c= word.charAt(i);
+            if(c=='.')
+                cur=cur.next.;
             if(cur.next.get(c)==null)
                 return false;
-            cur=cur.next.get(c);
         }
         return cur.isWord;
     }
 
-    public boolean isPrefix(String prefix){
-        Node cur=root;
-        for(int i=0;i<prefix.length();i++){
-            Character c= prefix.charAt(i);
-            if(cur.next.get(c)==null)
-                return false;
-            cur=cur.next.get(c);
-        }
-        return true;
-    }
+ 
 
 
 }
